@@ -34,27 +34,27 @@
 
 主页面主要提供美食信息的预览
 
-![](http://oe51jhwvd.bkt.clouddn.com/douguoHome.jpg)
+![](http://oe51jhwvd.bkt.clouddn.com/douguoHome.jpg =360x640)
 3. 列表页
 
 列表页主要提供列表选择
 
-![](http://oe51jhwvd.bkt.clouddn.com/douguoList.jpg)
+![](http://oe51jhwvd.bkt.clouddn.com/douguoList.jpg =360x640)
 4. 购物页
 
 购物页主要提供商品选购
 
-![](http://oe51jhwvd.bkt.clouddn.com/douguoShop.jpg)
+![](http://oe51jhwvd.bkt.clouddn.com/douguoShop.jpg =360x640)
 5. 详情页
 
 详情页主要记录了菜谱信息
 
-![](http://oe51jhwvd.bkt.clouddn.com/douguoHomeDetail.jpg)
+![](http://oe51jhwvd.bkt.clouddn.com/douguoHomeDetail.jpg =360x640)
 6. 列表信息页
 
 购物页主要记录了不同列表页的信息
 
-![](http://oe51jhwvd.bkt.clouddn.com/douguoListDetail.jpg)
+![](http://oe51jhwvd.bkt.clouddn.com/douguoListDetail.jpg =360x640)
 
 **项目主要使用的技术：**
 
