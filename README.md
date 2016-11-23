@@ -26,35 +26,39 @@
 
 **本项目主要有一下部分组成：**
 
-1. 底部Tabbar
+- 底部Tabbar
 
 	- 底部Tabbar做了兼容，采用了`Navigator`，使用`Navigator`提供的replace方法进行`router`切换
 
-2. 主页面
+- 主页面
 
 主页面主要提供美食信息的预览
 
-![](http://oe51jhwvd.bkt.clouddn.com/douguoHome.jpg)
-3. 列表页
+<img src="http://oe51jhwvd.bkt.clouddn.com/douguoHome.jpg" width="270" height="480">
+
+- 列表页
 
 列表页主要提供列表选择
 
-![](http://oe51jhwvd.bkt.clouddn.com/douguoList.jpg)
-4. 购物页
+<img src="http://oe51jhwvd.bkt.clouddn.com/douguoList.jpg" width="270" height="480">
+
+- 购物页
 
 购物页主要提供商品选购
 
-![](http://oe51jhwvd.bkt.clouddn.com/douguoShop.jpg)
-5. 详情页
+<img src="http://oe51jhwvd.bkt.clouddn.com/douguoShop.jpg" width="270" height="480">
+
+- 详情页
 
 详情页主要记录了菜谱信息
 
-![](http://oe51jhwvd.bkt.clouddn.com/douguoHomeDetail.jpg)
-6. 列表信息页
+<img src="http://oe51jhwvd.bkt.clouddn.com/douguoHomeDetail.jpg" width="270" height="480">
+
+- 列表信息页
 
 购物页主要记录了不同列表页的信息
 
-![](http://oe51jhwvd.bkt.clouddn.com/douguoListDetail.jpg)
+<img src="http://oe51jhwvd.bkt.clouddn.com/douguoListDetail.jpg" width="270" height="480">
 
 **项目主要使用的技术：**
 
