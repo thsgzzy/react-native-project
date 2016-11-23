@@ -28,35 +28,28 @@
 
 1. 底部Tabbar
 
-- 底部Tabbar做了兼容，采用了`Navigator`，使用`Navigator`提供的replace方法进行`router`切换
+	- 底部Tabbar做了兼容，采用了`Navigator`，使用`Navigator`提供的replace方法进行`router`切换
 
 2. 主页面
 
 主页面主要提供美食信息的预览
 
 ![](http://oe51jhwvd.bkt.clouddn.com/douguoHome.jpg)
-
-
 3. 列表页
 
 列表页主要提供列表选择
 
 ![](http://oe51jhwvd.bkt.clouddn.com/douguoList.jpg)
-
-
 4. 购物页
 
 购物页主要提供商品选购
 
 ![](http://oe51jhwvd.bkt.clouddn.com/douguoShop.jpg)
-
-
 5. 详情页
 
 详情页主要记录了菜谱信息
 
 ![](http://oe51jhwvd.bkt.clouddn.com/douguoHomeDetail.jpg)
-
 6. 列表信息页
 
 购物页主要记录了不同列表页的信息
